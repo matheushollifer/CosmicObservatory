@@ -1,0 +1,4 @@
+﻿  SolarSystem.cpp
+C:\Users\Matheus\Desktop\IF Sudeste MG\2periodo-2025\Pessoal\Projetos\3DSolarSystem\SolarSystem.cpp(9,32): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Matheus\Desktop\IF Sudeste MG\2periodo-2025\Pessoal\Projetos\3DSolarSystem\SolarSystem.cpp(9,22): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+  3DSolarSystem.vcxproj -> C:\Users\Matheus\Desktop\IF Sudeste MG\2periodo-2025\Pessoal\Projetos\3DSolarSystem\x64\Debug\3DSolarSystem.exe
