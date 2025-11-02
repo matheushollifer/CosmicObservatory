@@ -1,0 +1,7 @@
+﻿  SolarSystem.cpp
+C:\Users\Matheus\Desktop\IF Sudeste MG\2periodo-2025\Pessoal\Projetos\SolarSystem\SolarSystem.cpp(10,29): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Matheus\Desktop\IF Sudeste MG\2periodo-2025\Pessoal\Projetos\SolarSystem\SolarSystem.cpp(10,19): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Matheus\Desktop\IF Sudeste MG\2periodo-2025\Pessoal\Projetos\SolarSystem\SolarSystem.cpp(42,15): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\Matheus\Desktop\IF Sudeste MG\2periodo-2025\Pessoal\Projetos\SolarSystem\SolarSystem.cpp(69,35): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Matheus\Desktop\IF Sudeste MG\2periodo-2025\Pessoal\Projetos\SolarSystem\SolarSystem.cpp(69,25): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+  SolarSystem.vcxproj -> C:\Users\Matheus\Desktop\IF Sudeste MG\2periodo-2025\Pessoal\Projetos\SolarSystem\x64\Debug\SolarSystem.exe

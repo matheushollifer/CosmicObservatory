@@ -1,0 +1,15 @@
+﻿  SolarSystem.cpp
+C:\Users\Matheus\Desktop\IF Sudeste MG\2periodo-2025\Pessoal\Projetos\SolarSystem\SolarSystem.cpp(8,29): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Matheus\Desktop\IF Sudeste MG\2periodo-2025\Pessoal\Projetos\SolarSystem\SolarSystem.cpp(8,19): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+SolarSystem.obj : error LNK2019: símbolo externo não resolvido, _InitWindow, referenciado na função "public: __thiscall SolarSystem::SolarSystem(void)" (??0SolarSystem@@QAE@XZ)
+SolarSystem.obj : error LNK2019: símbolo externo não resolvido, _CloseWindow, referenciado na função "public: void __thiscall SolarSystem::run(void)" (?run@SolarSystem@@QAEXXZ)
+SolarSystem.obj : error LNK2019: símbolo externo não resolvido, _WindowShouldClose, referenciado na função "public: void __thiscall SolarSystem::run(void)" (?run@SolarSystem@@QAEXXZ)
+SolarSystem.obj : error LNK2019: símbolo externo não resolvido, _GetScreenWidth, referenciado na função "public: __thiscall SolarSystem::SolarSystem(void)" (??0SolarSystem@@QAE@XZ)
+SolarSystem.obj : error LNK2019: símbolo externo não resolvido, _GetScreenHeight, referenciado na função "public: __thiscall SolarSystem::SolarSystem(void)" (??0SolarSystem@@QAE@XZ)
+SolarSystem.obj : error LNK2019: símbolo externo não resolvido, _ClearBackground, referenciado na função "public: void __thiscall SolarSystem::run(void)" (?run@SolarSystem@@QAEXXZ)
+SolarSystem.obj : error LNK2019: símbolo externo não resolvido, _BeginDrawing, referenciado na função "public: void __thiscall SolarSystem::run(void)" (?run@SolarSystem@@QAEXXZ)
+SolarSystem.obj : error LNK2019: símbolo externo não resolvido, _EndDrawing, referenciado na função "public: void __thiscall SolarSystem::run(void)" (?run@SolarSystem@@QAEXXZ)
+SolarSystem.obj : error LNK2019: símbolo externo não resolvido, _SetTargetFPS, referenciado na função "public: __thiscall SolarSystem::SolarSystem(void)" (??0SolarSystem@@QAE@XZ)
+SolarSystem.obj : error LNK2019: símbolo externo não resolvido, _DrawCircleV, referenciado na função "public: void __thiscall SolarSystem::run(void)" (?run@SolarSystem@@QAEXXZ)
+C:\Users\Matheus\Desktop\IF Sudeste MG\2periodo-2025\Pessoal\Projetos\SolarSystem\raylib-5.5_win64_msvc16\lib\raylib.lib : warning LNK4272: o tipo de máquina da biblioteca 'x64' está em conflito com o tipo de máquina de destino 'x86'
+C:\Users\Matheus\Desktop\IF Sudeste MG\2periodo-2025\Pessoal\Projetos\SolarSystem\Debug\SolarSystem.exe : fatal error LNK1120: 10 externo não resolvidos
